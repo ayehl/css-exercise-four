@@ -23,6 +23,20 @@ body {
   padding: 20px;
 }
 
+@media screen and (min-width: 575px){
+  div {
+    margin: 1%;
+    width: 48%;
+  }
+
+  /** 4 column design for laptops **/
+
+  @media screen and (min-width: 991px){
+    div {
+      margin: 1%;
+      width: 23%;
+    }
+
 .london {
   text-transform: none;
   font-family: serif;
@@ -32,6 +46,20 @@ body {
   height: 200px;
   padding: 20px;
 }
+
+@media screen and (min-width: 575px){
+   div {
+    margin: 1%;
+    width: 48%;
+  }
+
+  /** 4 column design for laptops **/
+
+  @media screen and (min-width: 991px){
+  div {
+      margin: 1%;
+      width: 23%;
+    }
 
 .madrid {
   text-transform: none;
@@ -43,6 +71,20 @@ body {
   padding: 20px;
 }
 
+@media screen and (min-width: 575px){
+   div {
+    margin: 1%;
+    width: 48%;
+  }
+
+  /** 4 column design for laptops **/
+
+  @media screen and (min-width: 991px){
+     div {
+      margin: 1%;
+      width: 23%;
+    }
+
 .rome {
   text-transform: none;
   font-family: serif;
@@ -52,6 +94,20 @@ body {
   height: 200px;
   padding: 20px;
 }
+
+@media screen and (min-width: 575px){
+   div {
+    margin: 1%;
+    width: 48%;
+  }
+
+  /** 4 column design for laptops **/
+
+  @media screen and (min-width: 991px){
+     div {
+      margin: 1%;
+      width: 23%;
+    }
 
 div {
   background-color: #DBD6D6;
