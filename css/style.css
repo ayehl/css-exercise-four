@@ -17,7 +17,7 @@ body {
   text-transform: none;
   font-family: serif;
   font-size: 12px;
-  background-image: url("/images/baku.jpg");
+  background-image: url("../images/baku.jpg");
   background-size: cover;
   height: 200px;
   padding: 20px;
@@ -43,7 +43,7 @@ body {
   text-transform: none;
   font-family: serif;
   font-size: 12px;
-  background-image: url("/images/london.png");
+  background-image: url("../images/london.png");
   background-size: cover;
   height: 200px;
   padding: 20px;
@@ -69,7 +69,7 @@ body {
   text-transform: none;
   font-family: serif;
   font-size: 12px;
-  background-image: url("/images/madrid.jpg");
+  background-image: url("../images/madrid.jpg");
   background-size: cover;
   height: 200px;
   padding: 20px;
@@ -95,7 +95,7 @@ body {
   text-transform: none;
   font-family: serif;
   font-size: 12px;
-  background-image: url("/images/rome.jpg");
+  background-image: url("../images/rome.jpg");
   background-size: cover;
   height: 200px;
   padding: 20px;
